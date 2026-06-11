@@ -87,7 +87,9 @@ otp-verification/
 ### 1. Clone Repository
 
 ```bash
-git clone <repository-url>
+download this repo
+extract the file
+open in any code editor
 cd otp-verification
 ```
 
@@ -274,6 +276,6 @@ User → Logged In Session
 
 ## Author
 
-Sonu Tiwari
+Mahendra Tiwari
 
 BCA Student | Python & Web Development Enthusiast
